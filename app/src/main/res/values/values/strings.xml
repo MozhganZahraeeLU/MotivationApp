@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Daily Motivation App</string>
+    <string name="background_image_desc">Background image for the top section of the app</string>
+    <string-array name="quote_categories">
+        <item>Inspirational</item>
+        <item>Life</item>
+        <item>Success</item>
+    </string-array>
+</resources>
+
